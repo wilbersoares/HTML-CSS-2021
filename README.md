@@ -1,2 +1,2 @@
-# HTML + CSS (2021)
- Curso de HTML + CSS / 2021
+# Curso HTML + CSS (2021)
+Aprendendo HTML + CSS
