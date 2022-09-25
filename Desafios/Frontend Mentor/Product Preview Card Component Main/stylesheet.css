@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+}
+
+.container {
+    background-color:hsl(30, 38%, 92%);
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    justify-content: center;
+    }
+
+.box1{
+background-color: hsl(158, 36%, 37%);
+width: 350px;
+height: 500px;
+margin: auto;
+border-radius: 5% 0% 0% 5%;
+
+}
+
+
+.box2{
+background-color: hsl(0, 0%, 100%);
+width: 350px;
+height: 500px;
+margin: auto;
+border-radius: 0% 5% 5% 0%;
+}
