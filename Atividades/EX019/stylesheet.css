@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(146, 146, 146);
+    margin: 0px;
+}
+
+img {
+    max-width: 100px;
+    margin: auto;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 1px 1px 3px;
+}
+
+a{
+    padding: 5px;
+}
+
+nav {
+    background-color: rgb(74, 192, 192);
+    text-align: center;
+    font-size:larger;
+    border-radius: 8px 8px 0px 0px ;
+}
+
+header {
+    background-color: white;
+    margin: 10px;
+    border-radius: 8px 8px 0px 0px ;
+}
+
+section {
+    background-color: white;
+    margin: 10px;
+    padding: 1px;
+    border-radius: 5px;
+}
+
+
+article {
+    background-color: rgb(225, 235, 235);
+
+}
+
+footer {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 1px;
+    font-size: 9px;
+    margin: 10px;
+}
